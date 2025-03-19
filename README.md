@@ -1,6 +1,7 @@
 # CounterTerrorist
 
-This is a game equipment selection program coding in JavaScript.
+- This is a game equipment selection program coding in JavaScript.
+- <a href="https://counter-terrorist-red.vercel.app/">Have a try</a>
 
 <img width="1664" alt="image" src="https://github.com/user-attachments/assets/7b50796d-06cb-4c8b-b6fb-0dd1edb0adad">
 <img width="1584" alt="image" src="https://github.com/user-attachments/assets/9dad4a89-a115-4717-9594-ae988491a5e1">
